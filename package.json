@@ -1,0 +1,20 @@
+{
+  "name": "Sensei",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Matt Santy",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^2.2.20",
+    "gulp-webserver": "^0.8.1"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+  }
+}
